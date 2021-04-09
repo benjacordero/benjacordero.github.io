@@ -26,30 +26,48 @@
     </item>
     
     <item>
-      <title>Encargo 01</title>
-      <link>https://benjacordero.github.io/docs/encargo01/</link>
+      <title>Encargo 01 - Quien Soy</title>
+      <link>https://benjacordero.github.io/docs/encargo-02-si/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://benjacordero.github.io/docs/encargo01/</guid>
+      <guid>https://benjacordero.github.io/docs/encargo-02-si/</guid>
+      <description>Contenido de mi post 1 con Hugo.</description>
+    </item>
+    
+    <item>
+      <title>Encargo 02 - Bone Armchair</title>
+      <link>https://benjacordero.github.io/docs/encargo-01-quien-soy/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://benjacordero.github.io/docs/encargo-01-quien-soy/</guid>
       <description>encargo 1.</description>
     </item>
     
     <item>
-      <title>Entrega 3 sillas</title>
-      <link>https://benjacordero.github.io/docs/entrega-3-sillas/</link>
+      <title>Encargo 03 - 3 sillas</title>
+      <link>https://benjacordero.github.io/docs/encargo-03-3-sillas/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://benjacordero.github.io/docs/entrega-3-sillas/</guid>
+      <guid>https://benjacordero.github.io/docs/encargo-03-3-sillas/</guid>
       <description>Entrega 3 sillas</description>
     </item>
     
     <item>
-      <title>Sobre Mi</title>
-      <link>https://benjacordero.github.io/docs/post-1/</link>
+      <title>Encargo 04 - Silla Paramétrica</title>
+      <link>https://benjacordero.github.io/docs/encargo-04-silla-param%C3%A9trica/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://benjacordero.github.io/docs/post-1/</guid>
-      <description>Contenido de mi post 1 con Hugo.</description>
+      <guid>https://benjacordero.github.io/docs/encargo-04-silla-param%C3%A9trica/</guid>
+      <description>Encargo 04 - Silla Paramétrica</description>
+    </item>
+    
+    <item>
+      <title>Encargo 05 - Ergomodity</title>
+      <link>https://benjacordero.github.io/docs/encargo-05-presentacion-ergomodity/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://benjacordero.github.io/docs/encargo-05-presentacion-ergomodity/</guid>
+      <description>Encargo 05 - Presentación Grupal</description>
     </item>
     
   </channel>
