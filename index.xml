@@ -27,19 +27,19 @@
     
     <item>
       <title>Encargo 01 - Quien Soy</title>
-      <link>https://benjacordero.github.io/docs/encargo-02-si/</link>
+      <link>https://benjacordero.github.io/docs/encargo-01-quien-soy/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://benjacordero.github.io/docs/encargo-02-si/</guid>
+      <guid>https://benjacordero.github.io/docs/encargo-01-quien-soy/</guid>
       <description>Contenido de mi post 1 con Hugo.</description>
     </item>
     
     <item>
       <title>Encargo 02 - Bone Armchair</title>
-      <link>https://benjacordero.github.io/docs/encargo-01-quien-soy/</link>
+      <link>https://benjacordero.github.io/docs/encargo-02-silla-bone-armchair/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://benjacordero.github.io/docs/encargo-01-quien-soy/</guid>
+      <guid>https://benjacordero.github.io/docs/encargo-02-silla-bone-armchair/</guid>
       <description>encargo 1.</description>
     </item>
     
@@ -68,6 +68,15 @@
       
       <guid>https://benjacordero.github.io/docs/encargo-05-presentacion-ergomodity/</guid>
       <description>Encargo 05 - Presentación Grupal</description>
+    </item>
+    
+    <item>
+      <title>Unidad 2 - Entrega 01 Recap 3D Pancakes</title>
+      <link>https://benjacordero.github.io/docs/u2-entrega-1-recap-pancakes/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://benjacordero.github.io/docs/u2-entrega-1-recap-pancakes/</guid>
+      <description>Unidad 2 - Entrega 01 Recap 3D Pancakes</description>
     </item>
     
     <item>
